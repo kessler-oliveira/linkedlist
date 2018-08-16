@@ -1,11 +1,11 @@
 # Linked List
 
-Simples linked list with copy function. The node structure is:
+Simples linked list with copy function. 
 
-Node
-    data
-    next
-    random
+The node structure is:
++ data
++ next
++ random
 
 ## Requirements
 
